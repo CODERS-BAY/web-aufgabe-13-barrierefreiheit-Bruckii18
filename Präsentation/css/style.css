@@ -1,0 +1,38 @@
+body {
+    margin: auto;
+    width: 80%;
+    font-family: 'Raleway', sans-serif;
+}
+header {
+    text-align: center;
+    padding: 2rem;
+    font-size: larger;
+}
+nav {
+    border-radius: 10px;
+    background-color: rgb(138, 138, 138);
+    padding: 0.5rem;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+}
+nav a:hover {
+    color: white;
+}
+main {
+    display: block;
+    margin: auto;
+    background-color: rgb(173, 173, 173);
+    padding: 2rem
+}
+img {
+    border-radius: 1rem;
+    border: 5px solid rgb(138, 138, 138);
+    max-width: 90%;
+}
+
+div {
+    display: block;
+    margin: auto;
+}
